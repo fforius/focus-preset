@@ -2,6 +2,10 @@
     "default_model": "Mmmm.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
+    "default_save_metadata_to_images": true,
+    "default_metadata_scheme": "fooocus",
+    "metadata_created_by": "fforius",
+    "default_image_number": 4,
     "default_loras": [
         [
             true,
@@ -40,7 +44,7 @@
         "Fooocus V2",
         "SAI Cinematic",
         "SAI Enhance",
-		"SAI Photographic"
+	"SAI Photographic"
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {},
